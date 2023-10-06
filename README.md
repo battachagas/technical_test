@@ -5,7 +5,7 @@ Resolução de problema de [Churn](https://docs.google.com/spreadsheets/d/1hyNnd
 
 ## Processamento
 
-O processamento dos dados e dos modelos são feito no Jupyter Notebook _notebooks/data_prep.ipynb_, _notebooks/single_model.ipynb_ e _notebooks/check_predictions.ipynb_
+O processamento dos dados e dos modelos são feitos no Jupyter Notebook _notebooks/data_prep.ipynb_, _notebooks/single_model.ipynb_ e _notebooks/check_predictions.ipynb_
 enquanto a análise inicial dos dados é dado no notebook _analise-inicial-das-features.ipynb_
 
 ## Sobre o ambiente: 
